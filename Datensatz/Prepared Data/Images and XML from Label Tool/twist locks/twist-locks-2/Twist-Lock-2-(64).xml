@@ -1,0 +1,26 @@
+<annotation>
+  <folder>data</folder>
+  <filename>Twist-Lock-2-(64)</filename>
+  <path>D:\_MA\psychic-memory\Label Tools\LabelImg\data\Twist-Lock-2-(64).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>211</width>
+    <height>157</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Copy of Copy of twist_lock_2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>72</ymin>
+      <xmax>175</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+</annotation>

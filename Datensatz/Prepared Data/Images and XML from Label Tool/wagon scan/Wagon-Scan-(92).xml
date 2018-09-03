@@ -1,0 +1,26 @@
+<annotation>
+  <folder>data</folder>
+  <filename>Wagon-Scan-(92)</filename>
+  <path>D:\_MA\psychic-memory\Label Tools\LabelImg\data\Wagon-Scan-(92).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wagon_scan</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>141</ymin>
+      <xmax>285</xmax>
+      <ymax>260</ymax>
+    </bndbox>
+  </object>
+</annotation>
