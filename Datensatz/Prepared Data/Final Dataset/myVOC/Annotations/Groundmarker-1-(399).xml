@@ -1,0 +1,37 @@
+<annotation>
+  <folder>myVOC</folder>
+  <filename>Groundmarker-1-(399).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>352</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>groundmarker_1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>24</ymin>
+      <xmax>280</xmax>
+      <ymax>107</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>groundmarker_1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>132</ymin>
+      <xmax>280</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+  <folder>myVOC</folder>
+  <filename>Container-No-Door-(61).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>container_no_door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420</xmin>
+      <ymin>164</ymin>
+      <xmax>1475</xmax>
+      <ymax>1260</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>container_door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1435</xmin>
+      <ymin>153</ymin>
+      <xmax>2031</xmax>
+      <ymax>1249</ymax>
+    </bndbox>
+  </object>
+</annotation>

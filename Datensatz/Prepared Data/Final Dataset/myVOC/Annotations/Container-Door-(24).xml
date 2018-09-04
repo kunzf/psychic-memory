@@ -1,0 +1,37 @@
+<annotation>
+  <folder>myVOC</folder>
+  <filename>Container-Door-(24).jpg</filename>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1836</width>
+    <height>3264</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>container_door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>120</ymin>
+      <xmax>1760</xmax>
+      <ymax>1977</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>twist_lock_1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>1943</ymin>
+      <xmax>241</xmax>
+      <ymax>2129</ymax>
+    </bndbox>
+  </object>
+</annotation>
