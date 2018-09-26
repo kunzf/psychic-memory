@@ -1,0 +1,5 @@
+classes= 6  
+train  = train_wagon.txt  
+valid  = test_wagon.txt  
+names = obj_wagon.names  
+backup = backup_wagon/  

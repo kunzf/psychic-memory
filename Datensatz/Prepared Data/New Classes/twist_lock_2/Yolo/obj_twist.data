@@ -1,0 +1,5 @@
+classes= 6  
+train  = train_twist.txt  
+valid  = test_twist.txt  
+names = obj_twist.names  
+backup = backup_twist/  
